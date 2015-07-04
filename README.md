@@ -1,4 +1,4 @@
-*This was written just after there was some basic information about GraphQL available after React Conf Jan 2015, and does not reflect the offical specification released during React Europe July 2015*
+*This was written just after there was some basic information about GraphQL available after React Conf Jan 2015, and does not reflect the offical specification released during React Europe July 2015. The parser in the file parse_graphql.py (which has no django dependencies) may be of some use to anyone who wants to write a fully featured GraphQL parser*
 
 python GraphQL parser and django ORM integration
 
